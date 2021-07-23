@@ -224,7 +224,7 @@
   
   .post-meta {
     font-size: $small-font-size;
-    color: $brand-color;
+    color: $brand-color-light;
   }
   
   .post-link {
@@ -239,6 +239,7 @@
    */
   .post-header {
     margin-bottom: $spacing-unit;
+    color: $brand-color
   }
   
   .post-title,
