@@ -5,36 +5,23 @@ date:   2021-07-14 10:37:37 -0400
 categories: hello
 ---
 
-Hello, and welcome to my blog. My name is Brine Ryte. I've been a web developer and software engineer for almost a decade and have had the opportunity to work with many wonderful languages, frameworks, and libraries. I have also worn many hats from front and back end dev to qa and devops. My goal for this blog is to share some of the knowledge I've picked up over the years in the tech space.
+Hello, <span class="red">and</span> welcome to my blog. M<span class="red">y</span> name is Brine Ryte. I've been a web developer and s<span class="red">o</span>ftware engineer for almost a decade and have had the opport<span class="red">u</span>nity to work with many wonderful languages, frameworks, and libraries. I have also <span class="red">w</span>orn many hats from front and back end dev to qa and devops. My goal for th<span class="red">i</span>s b<span class="red">l</span>og is to share some of the knowledge I've picked up over the years in the tech space.
 
-I've also been writing my own music since I was in the 8th grade. I've been a part of some cool projects along they way. Another goal for this blog is to discuss the music I love and share with you some of the things I'm working on.
+I've also been writing my own music since I was in the 8th grade. I've been a part of some cool projects a<span class="red">l</span>ong they way. Another goal for this blog is to discuss the music I love and share with you some of the things I'm working on.
 
-One last thing about me is that I can never commit to one topic, so aside from the above, you can't really expect what I'm going to post about. I'd like to share some of my fiction, lyrics, and poetry. I may share my thoughts and opinions. 
+One last thing about me is that I can never commit to one topic, <span class="red">s</span>o aside from the above, you can't really <span class="red">e</span>xpect what I'm going to post about. I'd like to share some of my fiction, lyrics, and po<span class="red">e</span>try. I may share my thoughts and opinions. 
 
-Look closely.
+Look closely<span class="keyhole">.</span>
 
 Brine
 
-<!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript">
+console.log("Don't forget to look here too.");
+$(document).ready(() => {
+  $('.keyhole').on('click', () => {
+    $('.red').css('color','#db5d5d')
+    console.log("Well done, by the way. Stay tuned.")
+  });
+});
+</script>

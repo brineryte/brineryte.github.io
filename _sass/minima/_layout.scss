@@ -341,3 +341,8 @@
       width: calc(50% - (#{$spacing-unit} / 2));
     }
   }
+
+  .keyhole {
+    color: $brand-color;
+    cursor: pointer;
+  }
