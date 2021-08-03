@@ -2,7 +2,7 @@
 layout: post
 title:  "Using Sqlite to Share Data Between Parallel Test Workers"
 date:   2021-08-02 10:37:37 -0400
-categories: sqlite pytest xdist
+categories: testing
 ---
 
 ## A Crash Course In Test Collisions
@@ -13,7 +13,7 @@ When writing automated acceptance tests, one common obstacle that pops up is dat
 First, though, I just want to say that there are manifold ways of avoiding this and it is nothing to be feared. It will probably be best for me outline a more specific situation to give a clearer context, but use your imagination here as this could apply to you and your product. 
 
 ## The Background
-Recently, I was tasked with building an automated end to end test suite from the ground up for an e-commerce product that requires user authentication for all aspects of the site. That is to say, there is no way to engage with the site generically, one must have an account and be logged in. This poses a few potential problems for testing, one being that there must be some way to either securely provide credentials during the test, and another being the potential for two parallel tests to effect teh same user's state, causing a collision.
+Recently, I was tasked with building an automated end to end test suite from the ground up for an e-commerce product that requires user authentication for all aspects of the site. That is to say, there is no way to engage with the site generically, one must have an account and be logged in. This poses a few potential problems for testing, one being that there must be some way to securely provide credentials during the test, and another being the potential for two parallel tests to effect the same user's state, causing a collision.
 
 Now this is going to get a little reductive because, like I said, there are a number of ways to solve these issues, but I'll just be putting forth my approach. Fortunately we have a way to mitigate the credential issue so I won't talk about that any further. The main issue I'll address is collision avoidance. To lay it out, our core tests involve the user essentially taking the happy path from logging in all the way to checking out. This includes browsing for items, adding to cart, selecting shipping options, etc. For the sake of data cleanliness, at the start of each of these tests, we empty the user's cart so we ensure we are starting with a clean slate. Before that step, we need to choose a user to log in as, and that's where this collision issue really exists.
 
@@ -22,7 +22,7 @@ You see, if one test begins executing on a user, adds some items to cart and is 
 
 Of course, we could certainly create a single user for every individual test and that would avoid any and all collisions. However, I would posit that that is not a very scalable approach. What if we need to add 20 more tests like these next week? What if we need a hundred more by the end of the year? Let's face it, there are a lot of things to test on an e-commerce site, especially when it comes to what is definitely the most important function - placing orders. Scalability is something that often goes overlooked in software. It's because of this that I believe there are many engineers out there who almost immediately think of how a solution will scale. It's something that can bite you in the long run, and is worth at least a passing thought now and then.
 
-I, being the only one on my "team" and the sole responder for creating these tests, did not want to get stuck making a bunch of users every time we needed a new batch of criteria. So to the drawing board I went.
+I, being the only one on my "team" and the sole responder for creating these tests, did not want to get stuck making a bunch of users every time we got a new batch of criteria. So to the drawing board I went.
 
 ## The Tech
 ![The greatest language.](/assets/images/python.jpg)
@@ -164,7 +164,7 @@ def setUserToAvailable(accountId):
     sqlite_db.delete_accounts_in_use(accountId)
 ```
 
-As you can see, that one is painfully simple. All that's left is to call it to plug all of this in! Here is a neutered sample of how I'm using this in the scope of my tests:
+As you can see, that one is painfully simple. All that's left is to plug all of this in! Here is a neutered sample of how I'm using this in the scope of my tests:
 
 ```python
     def test_PlacingOrder(self):
