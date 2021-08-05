@@ -12,3 +12,11 @@
   .site-footer{
       border:none;
   }
+
+  .aboutpic{
+    transition: transform 5s ease-in-out;
+  }
+
+  .aboutpic:hover {
+    transform: rotate(3600deg);
+  }
