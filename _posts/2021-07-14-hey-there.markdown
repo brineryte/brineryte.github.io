@@ -5,23 +5,4 @@ date:   2021-07-14 10:37:37 -0400
 categories: hello
 ---
 
-Hello, <span class="red">and</span> welcome to my blog. M<span class="red">y</span> name is Brine Ryte. I've been a web developer and s<span class="red">o</span>ftware engineer for almost a decade and have had the opport<span class="red">u</span>nity to work with many wonderful languages, frameworks, and libraries. I have also <span class="red">w</span>orn many hats from front and back end dev to qa and devops. My goal for th<span class="red">i</span>s b<span class="red">l</span>og is to share some of the knowledge I've picked up over the years in the tech space.
-
-I've also been writing my own music since I was in the 8th grade. I've been a part of some cool projects a<span class="red">l</span>ong they way. Another goal for this blog is to discuss the music I love and share with you some of the things I'm working on.
-
-One last thing about me is that I can never commit to one topic, <span class="red">s</span>o aside from the above, you can't really <span class="red">e</span>xpect what I'm going to post about. I'd like to share some of my fiction, lyrics, and po<span class="red">e</span>try. I may share my thoughts and opinions. 
-
-Look closely<span class="keyhole">.</span>
-
-Brine
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script type="text/javascript">
-console.log("Don't forget to look here too.");
-$(document).ready(() => {
-  $('.keyhole').on('click', () => {
-    $('.red').css('color','#db5d5d')
-    console.log("Well done, by the way. Stay tuned.")
-  });
-});
-</script>
+Hello, and welcome. This blog does not have a strict purpose. I mainly just wanted a place to spill my thoughts as I don't use social media. It can be cathartic to write out your thoughts even if no one ever reads them. I may talk about things related to my work as a software and test engineer, my life and thoughts as a follower of Jesus, or I might just write whatever is on my mind. Basically, don't expect it to be very consistent.

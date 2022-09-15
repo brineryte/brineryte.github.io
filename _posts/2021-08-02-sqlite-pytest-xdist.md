@@ -212,3 +212,6 @@ And because sqlite handles locking on its own, there should be no need to fear m
 
 ## Conclusion
 This may seem like overkill, but I often prefer dynamic approaches to problems over anything more tedious in the long run. So far this solution has worked out well for us and may be a basis for other solutions in the future.
+
+## Future Brian here (Sep 2022)
+I just refactored all of this out of the test project. It wasn't the best solution. Sometimes, you need to just admit that and move on. I do think this was a fun experience but in the end, a better solution was to actually just create a user for each test (using a provided API). New users per test means NO collisions. Still, I hope this was useful!

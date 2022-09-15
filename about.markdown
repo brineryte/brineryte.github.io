@@ -8,7 +8,7 @@ permalink: /about/
 src="/assets/images/prof.jpg" style="display:block; margin:auto; width:30%; border-radius:50%;"/>
 
 <div style="text-align:center;">
-I am a husband, dad, software engineer, and "musician" writing about nothing in particular. I started this blog to give myself an outlet for my thoughts and ramblings since I don't really use social media. I enjoy spending time with my wonderful family, reading, and occassionally writing and recording music. Below you'll find some samples of that.
+I am a Christian, a husband, a dad, a software engineer, and sometimes, a "musician". I started this blog to give myself an outlet for my thoughts and ramblings since I don't really use social media. I enjoy spending time with my wonderful family, reading, and occasionally writing and recording music. Below you'll find some samples of that.
 
 <br/>
 
