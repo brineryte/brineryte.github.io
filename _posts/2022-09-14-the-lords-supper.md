@@ -8,7 +8,7 @@ categories: christ
 <p align="center">
 <img src="/assets/images/tls.jpg" height="250"/>
 </p>
-This is my cliff-notes version of a short book by Thomas Watson from the 17th century focusing on The Sacrament of the Eucharist. I found it very refreshing and it deepend my love, appreciation, and desire for Christ and his Supper. Pick it up [on amazon](https://www.amazon.com/Lords-Supper-Puritan-Paperbacks/dp/0851518540).
+This is my cliff-notes version of a short book by Thomas Watson from the 17th century focusing on The Sacrament of the Eucharist. I found it very refreshing and it deepened my love, appreciation, and desire for Christ and his Supper. Pick it up [on amazon](https://www.amazon.com/Lords-Supper-Puritan-Paperbacks/dp/0851518540).
 
 ----
 ## The Mystery of The Lord's Supper
@@ -136,3 +136,4 @@ A visible sermon
         1. We must come with hearts burning with love for Christ
 
 ## True and False Faith
+In progress...
