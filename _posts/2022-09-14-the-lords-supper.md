@@ -5,7 +5,10 @@ date:   2022-09-14 10:37:37 -0400
 categories: christ
 ---
 
-This is my cliff-notes version of a short book by Thomas Watson from the 17th century focusing on The Sacrament of the Eucharist. I found it very refreshing and it deepend my love, appreciation, and desire for Christ and his Supper.
+<p align="center">
+<img src="/assets/images/tls.jpg" height="250"/>
+</p>
+This is my cliff-notes version of a short book by Thomas Watson from the 17th century focusing on The Sacrament of the Eucharist. I found it very refreshing and it deepend my love, appreciation, and desire for Christ and his Supper. Pick it up [on amazon](https://www.amazon.com/Lords-Supper-Puritan-Paperbacks/dp/0851518540).
 
 ----
 ## The Mystery of The Lord's Supper
@@ -15,8 +18,10 @@ A visible sermon
 - A: As a visible sign.
 
 ## Five Particulars
-1. #### The Author: Jesus
-1. #### The Time: After supper and Before His sufferings
+1. #### The Author
+    - Jesus
+1. #### The Time
+    - After supper and Before His sufferings
 1. #### The Manner  
     - The taking of the bread
         - Christ is set apart for us
@@ -112,7 +117,7 @@ A visible sermon
     1. Christ's blood is heaven-procuring
 
 ## Self-Examination
- - ### We should come in solemn preparation
+ - #### We should come in solemn preparation
     - How?
         1. With self-examining hearts
             - If we do not examine ourselves, we don't know our spiritual inheritance
