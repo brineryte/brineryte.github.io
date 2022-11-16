@@ -184,6 +184,7 @@ A visible sermon
 1. Remember the glorious benefits we receive from teh broken body of Christ
     - Remember Christ's death with joy
     - Remember Christ's death, as to conform to His death
+
 ### Great Faith
 - Let us labor to feel some virtue flowing out of this ordinance to us.
 - Q: How may I know whether I have this great faith?
