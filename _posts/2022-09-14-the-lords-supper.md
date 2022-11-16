@@ -136,4 +136,82 @@ A visible sermon
         1. We must come with hearts burning with love for Christ
 
 ## True and False Faith
-In progress...
+- Exercise the Eye of Faith
+    - Look up to Christ with a believing eye
+- Exercise the mouth of Faith
+    - Adam died by eating; we live by eating.
+- Q: Does the virtue lie simply in Faith?
+    - A: Not in faith but in Christ
+- Q: Why should Faith carry away more from Christ in the sacrament than any other grace?
+    - A: 
+        1. Because faith is the most receptive grace
+        1. It is the most humble grace
+
+### Exhortation on approaching the table
+- We must come with humble hearts
+- We must come with heavenly hearts
+- We must come with believing hearts
+
+### False (Hypocritical) Faith
+- A hypocritical faith is easily come by
+- A hypocritical faith is afraid to come to trial
+- A hypocritical faith has a slight esteem of true faith
+- A hypocritical faith has a disability in one hand
+- A hypocritical faith is impure
+- A hypocritical faith is a dead faith
+
+### Exhortation (cont.)
+- We must come with charitable hearts
+- We must come with praying hearts
+- We must come with self-denying hearts
+
+## Objections Against Coming to the Sacrament
+1. But I am sinful and unholy
+    - Who do you think Christ died for?
+1. But I have sinned presumptuously against mercy
+    - The blood of Christ can forgive sins against mercy
+1. But I find such a faintness and feebleness in my soul
+    - Then you have even more need to go. Our weakness should send us to Christ
+1. But I have often come and find no fruit,I am not filled with comfort
+   - Though he may not fill you with comfort He may fill you with Strength
+   - If you are not filled with joy, but your eyes with tears, this is God meeting you at His table
+   - If your comforts are low, yet your faith is high, this is God's manifesting His presence in the Supper 
+1. But I cannot find any of these things in the sacrament, my heart is dead and locked up, and I have no return at all.
+    - Wait for God to give an answer of the ordinance. God has promised it, so wait and His promise will be fulfilled.
+
+### Remember the Lord Jesus At the Sacrament
+1. Remember Christ's passion. 
+1. Remember the glorious benefits we receive from teh broken body of Christ
+    - Remember Christ's death with joy
+    - Remember Christ's death, as to conform to His death
+### Great Faith
+- Let us labor to feel some virtue flowing out of this ordinance to us.
+- Q: How may I know whether I have this great faith?
+    - A: Six signs of great faith
+        1. A great faith can trust in God without a pawn or security
+        1. A great faith is a wonder-working faith
+        1. A great faith is firm and steadfast
+        1. A great faith can trust in an angry God
+        1. A great faith can swim against the tide
+        1. A great faith can bear great delays
+
+## Thankfulness to God
+1. Show thankfulness to Christ by courage
+1. Show thankfulness to Christ by fruitfulness
+1. Show thankfulness to Christ by zeal
+1. Show thankfulness to Christ by universal subjection to Him
+
+## Comforts to Unbelievers and Warnings to Unbelievers
+1. Let us show forth Christ by our heavenly words
+1. Let us show forth Christ by our heavenly affections
+1. Let us show forth Christ by our heavenly conversation
+
+### Comfort for God's People
+1. Christ's body broken and blood poured out was a glorious sacrifice
+    - It was a sacrifice of infinite merit
+    - It was a sacrifice of eternal duration
+1. Christ's blood being shed, believers may lay claim to all heavenly privileges
+1. Is Christ's blood shed? Here is comfort against death.
+
+### Warning to unrepentant sinners
+- The Blood will cry gainst them
